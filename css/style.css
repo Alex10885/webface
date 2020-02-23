@@ -1,0 +1,297 @@
+@charset "UTF-8";
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  width: 95%;
+  max-width: 1140px;
+  margin: auto;
+}
+
+.level {
+  display: block;
+  width: 919px;
+  height: 61px;
+  border-radius: 10px;
+  border: none;
+  -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: 22px;
+  line-height: 21px;
+  margin-bottom: 4px;
+  cursor: pointer;
+}
+
+.level_рurple {
+  background: #1D5EDC;
+  color: #fff;
+}
+
+.level_рurple:hover {
+  background: #3f5edc;
+}
+
+.level_blue {
+  background: #1DAEDC;
+  color: #fff;
+}
+
+.level_blue:hover {
+  background: #3faedc;
+}
+
+.level_green {
+  background: #1DDC3C;
+  color: #fff;
+}
+
+.level_green:hover {
+  background: #3fdc3c;
+}
+
+.level_yellow {
+  background: #DC9B1D;
+  color: #fff;
+}
+
+.level_yellow:hover {
+  background: #fe9b1d;
+}
+
+.level_orange {
+  background: #DC571D;
+  color: #fff;
+}
+
+.level_orange:hover {
+  background: #fe571d;
+}
+
+.level_red {
+  background: #DC1D1D;
+  color: #fff;
+}
+
+.level_red:hover {
+  background: #fe1d1d;
+}
+
+.wrapper {
+  width: 1093px;
+  height: 764px;
+  background-color: #B9B9B9;
+  margin: 0 auto;
+  margin-top: 23px;
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.wrapper__content {
+  width: 919px;
+  height: 530px;
+  margin: 0 auto;
+  margin-top: 36px;
+}
+
+.face__title {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 42px;
+  color: #000000;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  padding-top: 26px;
+}
+
+.extrasensory_3 {
+  line-height: 26px;
+}
+
+.wrapper__block_blue-col_1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.гussianRunes {
+  width: 462px;
+  line-height: 26px;
+}
+
+.graphicMagic {
+  width: 454px;
+  line-height: 26px;
+}
+
+.wrapper__block_blue-col_2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.extrasensory_2 {
+  width: 230px;
+  line-height: 26px;
+}
+
+.mandals {
+  width: 230px;
+  line-height: 26px;
+}
+
+.tarotMagic {
+  width: 230px;
+  line-height: 26px;
+}
+
+.ifritesMagic {
+  width: 218px;
+  line-height: 26px;
+}
+
+.wrapper__block_green-col_1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.whiteShamanismс {
+  width: 245px;
+  line-height: 26px;
+}
+
+.bioenergyTwo {
+  width: 232px;
+  line-height: 26px;
+}
+
+.extrasensoryOne {
+  width: 232px;
+  line-height: 26px;
+}
+
+.pendulumMagic {
+  width: 201px;
+  line-height: 26px;
+}
+
+.wrapper__block_green-col_2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.runesMagic {
+  width: 264px;
+  line-height: 26px;
+  font-size: 18px;
+}
+
+.taroCart {
+  width: 264px;
+  line-height: 26px;
+}
+
+.playingCards {
+  width: 384px;
+  line-height: 26px;
+}
+
+.wrapper__block_yellow-col_1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.genusMagic {
+  width: 128px;
+  line-height: 26px;
+}
+
+.moneyMagic {
+  width: 245px;
+  line-height: 26px;
+}
+
+.blackShamanism {
+  width: 254px;
+  line-height: 26px;
+}
+
+.battleMagic {
+  width: 278px;
+  line-height: 26px;
+}
+
+.wrapper__block_orange-col_1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+
+.sexMagic {
+  width: 275px;
+  line-height: 26px;
+  margin-right: 4px;
+}
+
+.tantraMagic {
+  width: 275px;
+  line-height: 26px;
+}
+
+.wrapper__block_red-col_1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.villageMagic {
+  width: 210px;
+  line-height: 26px;
+  font-size: 18px;
+}
+
+.witchCraft {
+  width: 215px;
+  line-height: 26px;
+  font-size: 18px;
+}
+
+.bioenergyOne {
+  width: 210px;
+  line-height: 26px;
+  font-size: 18px;
+}
+
+.candleCastingMagic {
+  width: 274px;
+  line-height: 26px;
+  font-size: 18px;
+}
+/*# sourceMappingURL=style.css.map */
